@@ -1,5 +1,4 @@
-﻿# EDA-NYC-Taxi-Rides-Dataset
-# NYC Taxi Operations Analysis – 2023
+﻿# EDA-NYC-Taxi-Rides-Dataset / NYC Taxi Operations Analysis – 2023
 
 ## Project Overview
 
@@ -475,7 +474,9 @@ NYC-Taxi-Operations/
 │
 ├── NYC_Taxi_Operations_EDA.ipynb
 │
-├── README.md
+├── final_nyc_taxi_2023_file.parquet
+│
+├── sampled_nyc_taxi_2023_file.parquet
 │
 ├── plots/
 │   ├── hourly_pickups.png
